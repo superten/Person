@@ -1,2 +1,4 @@
+@interface Person : NSObject
+    
 
-static_assert
+@end

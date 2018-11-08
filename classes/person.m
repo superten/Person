@@ -1,6 +1,3 @@
-
-asm
-
-
-
-while
+@implementation Person
+    
+@end
